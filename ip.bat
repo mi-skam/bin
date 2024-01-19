@@ -1,0 +1,1 @@
+wsl -- bash -c "tail -1 /etc/resolv.conf | cut -d' ' -f2"
